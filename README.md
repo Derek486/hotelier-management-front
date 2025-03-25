@@ -1,5 +1,9 @@
 # Aplicacion de Angular
 
+> [!NOTE]  
+> La información completa de este proyecto se encontrará en el siguiente repositorio:
+> https://github.com/Derek486/hotelier-management-stack.git 
+
 Para ejecutar esta aplicación puede ser utilizado el comando `ng serve` y dirigirse a `http://localhost:4200/`, para ello será necesario primero tener configurado el backend y el CORS al puerto 4200. 
 
 ## Ejecución con nginx:
